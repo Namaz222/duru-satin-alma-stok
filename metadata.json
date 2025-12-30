@@ -1,0 +1,5 @@
+{
+  "name": "ProProcure - Profesyonel Satın Alma ve Sipariş Takip Sistemi",
+  "description": "Yerel veri tabanı (offline-first) destekli, tedarikçi yönetimi, sipariş takibi ve fiyat analizi sunan profesyonel satın alma yazılımı.",
+  "requestFramePermissions": []
+}
