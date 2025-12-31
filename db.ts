@@ -91,4 +91,5 @@ export const DB = {
     const { error } = await supabase.from('stock_movements').upsert(movement);
     if (error) throw new Error(formatError(error));
   }
+
 };
